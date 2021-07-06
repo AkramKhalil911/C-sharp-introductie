@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Personen</AssemblyName>
+    <RootNamespace>Personen</RootNamespace>
+    <Copyright>Akram Khalil</Copyright>
+    <Authors>Akram Khalil</Authors>
+    <Company>Skiffa</Company>
+    <Description>Dit is een test</Description>
+  </PropertyGroup>
+
+</Project>
